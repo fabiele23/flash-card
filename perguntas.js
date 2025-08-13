@@ -1,24 +1,23 @@
 criaCartao(
     'Geografia',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a maior ilha do mundo?',
+    'R:Groenlândia'
 )
 
 criaCartao(
     'Geografia',
     'Qual a capital da França?',
-    'A capital da França é Paris'
+    'R:A capital da França é Paris'
 )
 
 criaCartao(
     'Geografia',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual o deserto mais seco do mundo?',
+    'R:Atacama'
 )
 
 criaCartao(
     'Geografia',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Em que continente fica o Egito',
+    'R:África'
 )
-
